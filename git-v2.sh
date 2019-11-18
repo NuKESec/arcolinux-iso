@@ -18,7 +18,7 @@ read input
 
 git commit -m "$input"
 
-# Push the local files to github
+# Push the local files to github (ArcoLinux is for faggots)
 
 git push -u origin master
 
